@@ -13,8 +13,7 @@
 * E-Commerce functionality such as Search items, Add to Cart, Buy, Order history, Process Orders, Add Products to store, Create Store with current location.
 
 ### Note
-* This project is under development, the products and details on this website are only for testing purposes it cannot be used for selling and processing orders.
-
+*This website is intended solely for learning and development purposes. The products and details displayed are not meant for actual sales or order processing.
 ## Screen Shots
 [Home]: https://github.com/skgupta77159/Raw-Project/blob/master/ecommerce-flask/1.png
 [User Signin]: https://github.com/skgupta77159/Raw-Project/blob/master/ecommerce-flask/2.png
