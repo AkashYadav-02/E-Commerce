@@ -5,9 +5,7 @@
 * Backend : Flask
 * Database : MongoDB
 
-## Development Repositiory
-* Frontend : ([https://github.com/skgupta77159/mystore-app](https://github.com/skgupta77159/mystore-app))
-* Backend : ([https://github.com/skgupta77159/mystore-webapp](https://github.com/skgupta77159/mystore-webapp))
+
 
 ## Feature
 * Two different authentication for customer and seller.
